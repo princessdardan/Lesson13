@@ -16,7 +16,7 @@ import TurtleGraphics.Pen;
             
   
     //abstract methods - cant be defined here
-    //must be defiend in child classes 
+    //must be defined in child classes 
     abstract public double area();
     abstract public void draw(Pen p);
     abstract public void stretchBy(double fact);
